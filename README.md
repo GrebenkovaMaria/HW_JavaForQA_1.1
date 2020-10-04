@@ -7,10 +7,10 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Скриншоты в инструкции по установке OpenJDK содержат указание на старую версию](https://github.com/GrebenkovaMaria/HW_JavaForQA_1.1/issues/1#issue-712301739)
-* [в инструкции по установке OpenJDK для Windows отсутствует финальный шаг по указанию пути в командной строке до файлов JDK](https://github.com/GrebenkovaMaria/HW_JavaForQA_1.1/issues/2#issue-712310743)
-* [отсутсвует шаг в инструкции для использования приложения KeyValidator](https://github.com/GrebenkovaMaria/HW_JavaForQA_1.1/issues/3#issue-712327868)
-* [в инструкции использования KeyValidator некоторые валидные и невалидные ключи перепутаны](https://github.com/GrebenkovaMaria/HW_JavaForQA_1.1/issues/4#issue-712334142) 
+* [Скриншоты в инструкции по установке OpenJDK содержат указание на старую версию](https://github.com/GrebenkovaMaria/HW_JavaForQA_1.1/issues/1)
+* [в инструкции по установке OpenJDK для Windows отсутствует финальный шаг по указанию пути в командной строке до файлов JDK](https://github.com/GrebenkovaMaria/HW_JavaForQA_1.1/issues/2)
+* [отсутсвует шаг в инструкции для использования приложения KeyValidator](https://github.com/GrebenkovaMaria/HW_JavaForQA_1.1/issues/3)
+* [в инструкции использования KeyValidator некоторые валидные и невалидные ключи перепутаны](https://github.com/GrebenkovaMaria/HW_JavaForQA_1.1/issues/4) 
 
 ## Описание процесса тестирования
 
