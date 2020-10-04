@@ -15,13 +15,13 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* инструкция по установке JDK на Windows
-* руководство использования KeyValidator
-* валидные и невалидные ключи, предстваленные в руководстве использования
+* [инструкция по установке JDK на Windows](https://github.com/GrebenkovaMaria/HW_JavaForQA_1.1/blob/master/openjdk11-manual.md)
+* [руководство использования KeyValidator](https://github.com/GrebenkovaMaria/HW_JavaForQA_1.1/blob/master/user-manual.md)
+* валидные и невалидные ключи, предстваленные в [руководстве использования](https://github.com/GrebenkovaMaria/HW_JavaForQA_1.1/blob/master/user-manual.md)
 
 
 В качестве тестовых данных использовались данные:
-* ключи для проверки валидации представленные в руководстве использования;
+* ключи для проверки валидации представленные в [руководстве использования](https://github.com/GrebenkovaMaria/HW_JavaForQA_1.1/blob/master/user-manual.md);
 
 
 Тестирование производилось в следующем окружении:
